@@ -1,6 +1,6 @@
 <?php
 
-namespace DigitallyHappy\ToggleFieldForBackpack;
+namespace MangoCaptain\ToggleFieldForBackpack;
 
 use Illuminate\Support\ServiceProvider;
 
